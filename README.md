@@ -12,7 +12,7 @@ auto-clicker for any application
 
 **Discord**
   - thorrow
-  - 
+
 # Program information #
 - *file extension* - .py (Python)
 - *The program does not contain malicious code.*
